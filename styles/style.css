@@ -213,7 +213,8 @@
   line-height: 1.15;
   font-size: 120px;
   font-weight: bold;
-  margin: 100px auto 0 auto;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 .feynman__subtitle {
@@ -341,7 +342,7 @@
   font-weight: normal;
 }
 
-.column-heading {
+.footer__column-heading {
   line-height: 30px;
   font-size: 18px;
   font-weight: bold;
