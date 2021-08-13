@@ -5,9 +5,10 @@
   line-height: 42px;
   font-size: 30px;
   font-weight: normal;
+  align-self: self-start;
+  transition: opacity 2s ease 1s;
 }
 
 .khan__buy-link:hover {
   opacity: .4;
-  transition: opacity 2s ease 1s;
 }
