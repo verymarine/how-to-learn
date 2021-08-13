@@ -1,0 +1,15 @@
+.cards__item {
+  align-content: flex-start;
+}
+
+.cards__item:first-of-type {
+  margin-right: 100px;
+}
+
+.cards__item:nth-last-of-type(2n) {
+  margin-right: 100px;
+}
+
+.cards__item:last-of-type {
+  margin-right: 100px;
+}

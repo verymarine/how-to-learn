@@ -1,0 +1,9 @@
+.cards {
+  margin: 0 auto 0 auto;
+  width: 920px;
+  display: grid;
+  grid-template-columns: 340px 340px 240px;
+  grid-template-rows: auto;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}

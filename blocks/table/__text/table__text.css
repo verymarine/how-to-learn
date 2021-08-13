@@ -1,0 +1,14 @@
+.table__text {
+  margin: 0;
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
+}
+  
+.table__text:nth-of-type(2n) {
+  margin: 20px auto 0 auto;
+}
+  
+.table__text:nth-of-type(5n) {
+  margin: 20px auto 0 auto;
+}
