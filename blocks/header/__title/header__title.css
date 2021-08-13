@@ -1,9 +1,9 @@
 .header__title {
   display: flex;
-  margin: 0;
-  margin-left: 64px;
+  margin: auto auto auto 64px;
+  padding: ;
   width: 730px;
-  z-index: 2;
+  z-index: 3;
   font-size: 102px;
   font-weight: bold;
   line-height: 96px;
